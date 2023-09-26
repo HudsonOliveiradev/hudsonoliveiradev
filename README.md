@@ -10,8 +10,8 @@
 
   <div>
 <a href="https://beacons.ai/hudsonoliveiradev">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=hudsonoliveiradev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonoliveiradev&layout=compact&langs_count=16&theme=onedark"/>
+<img height="170cm" src="https://github-readme-stats.vercel.app/api?username=hudsonoliveiradev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonoliveiradev&layout=compact&langs_count=16&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
 <img alig="center" alt="Hudson-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />

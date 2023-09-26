@@ -10,15 +10,15 @@
 
   <div>
 <a href="https://beacons.ai/hudsonoliveiradev">
-<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=hudsonoliveiradev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-<img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonoliveiradev&layout=compact&langs_count=16&theme=onedark"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=hudsonoliveiradev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonoliveiradev&layout=compact&langs_count=16&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
-<img alig="center" alt="Hudson-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img alig="center" alt="Hudson-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img alig="center" alt="Hudson-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img alig="center" alt="Hudson-Post" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img alig="center" alt="Hudson-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img alig="center" alt="Hudson-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alig="center" alt="Hudson-Node" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alig="center" alt="Hudson-SQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img alig="center" alt="Hudson-Post" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img alig="center" alt="Hudson-Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 </div>
 
 ##
